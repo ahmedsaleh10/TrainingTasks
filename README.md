@@ -1,2 +1,2 @@
-# TrainningTasks
+# TrainingTasks
 Learning html, css and javascript.
